@@ -40,3 +40,11 @@ class Solution_function:
         return True
         
 print(Solution_algorithm().canConstruct("ab", "bab")) 
+
+# Manual algotithm
+Runtime: 98 ms
+Memory: 14.4 MB
+    
+# Function algotithm
+Runtime: 24 ms
+Memory: 14.4 MB
